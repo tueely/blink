@@ -8,5 +8,5 @@ PLOT IDEA:
 I missed a shot at the trashcan.
 Realized it was a skill issue.
 Then remembered I study ECE at UofT.
-So I built a trashcan that never misses a shot.
+So I coded a trashcan that never misses.
 
