@@ -1,3 +1,4 @@
+#make it so that it is able to predict not based only on an input from the camera with respect to the location options given 
 import cv2
 import numpy as np
 
